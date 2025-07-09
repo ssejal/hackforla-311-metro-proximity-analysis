@@ -6,7 +6,7 @@ This work supports Hack for LA's civic data initiatives.
 
 ## Links
 
-- [Hack for LA GitHub Issue]([https://github.com/hackforla/data-science/issues/107])
+- [Hack for LA GitHub Issue](https://github.com/hackforla/data-science/issues/107)
 
 ## Structure
 
